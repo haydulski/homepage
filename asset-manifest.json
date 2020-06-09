@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/homepage/static/css/main.1fd2eabf.chunk.css",
-    "main.js": "/homepage/static/js/main.3c84e687.chunk.js",
-    "main.js.map": "/homepage/static/js/main.3c84e687.chunk.js.map",
+    "main.css": "/homepage/static/css/main.c4ff9494.chunk.css",
+    "main.js": "/homepage/static/js/main.d192659a.chunk.js",
+    "main.js.map": "/homepage/static/js/main.d192659a.chunk.js.map",
     "runtime-main.js": "/homepage/static/js/runtime-main.6dbab221.js",
     "runtime-main.js.map": "/homepage/static/js/runtime-main.6dbab221.js.map",
-    "static/js/2.82ec8453.chunk.js": "/homepage/static/js/2.82ec8453.chunk.js",
-    "static/js/2.82ec8453.chunk.js.map": "/homepage/static/js/2.82ec8453.chunk.js.map",
+    "static/js/2.7644ed6b.chunk.js": "/homepage/static/js/2.7644ed6b.chunk.js",
+    "static/js/2.7644ed6b.chunk.js.map": "/homepage/static/js/2.7644ed6b.chunk.js.map",
     "index.html": "/homepage/index.html",
-    "precache-manifest.cc7f142368dba4a4f85c9ed43ea0ed30.js": "/homepage/precache-manifest.cc7f142368dba4a4f85c9ed43ea0ed30.js",
+    "precache-manifest.064da3c9e6ebfc632d54a9eebb760298.js": "/homepage/precache-manifest.064da3c9e6ebfc632d54a9eebb760298.js",
     "service-worker.js": "/homepage/service-worker.js",
-    "static/css/main.1fd2eabf.chunk.css.map": "/homepage/static/css/main.1fd2eabf.chunk.css.map",
-    "static/js/2.82ec8453.chunk.js.LICENSE.txt": "/homepage/static/js/2.82ec8453.chunk.js.LICENSE.txt",
+    "static/css/main.c4ff9494.chunk.css.map": "/homepage/static/css/main.c4ff9494.chunk.css.map",
+    "static/js/2.7644ed6b.chunk.js.LICENSE.txt": "/homepage/static/js/2.7644ed6b.chunk.js.LICENSE.txt",
     "static/media/damian1.png": "/homepage/static/media/damian1.e2957fa7.png",
     "static/media/Offer.css": "/homepage/static/media/niebo5linia.a2675559.png",
     "static/media/hobby1.jpg": "/homepage/static/media/hobby1.a8779a6c.jpg",
     "static/media/hobby2.jpg": "/homepage/static/media/hobby2.c02ef994.jpg",
     "static/media/hobby3.jpg": "/homepage/static/media/hobby3.6a7c34e1.jpg",
+    "static/media/humantest.jpg": "/homepage/static/media/humantest.4ab1fa6c.jpg",
     "static/media/programy.png": "/homepage/static/media/programy.e40add3c.png",
     "static/media/rwdlogo.png": "/homepage/static/media/rwdlogo.0ed6361e.png",
     "static/media/seologo.png": "/homepage/static/media/seologo.d5023c54.png",
@@ -26,8 +27,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.6dbab221.js",
-    "static/js/2.82ec8453.chunk.js",
-    "static/css/main.1fd2eabf.chunk.css",
-    "static/js/main.3c84e687.chunk.js"
+    "static/js/2.7644ed6b.chunk.js",
+    "static/css/main.c4ff9494.chunk.css",
+    "static/js/main.d192659a.chunk.js"
   ]
 }
