@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "57e89081f8fa77a331f7e386a492daf4",
+    "revision": "322aa34325bed6acfaf8fb37298a3733",
     "url": "/index.html"
   },
   {
-    "revision": "4f3d824b524140806a6a",
-    "url": "/static/css/main.8a7717c0.chunk.css"
+    "revision": "f5881419577ad35fe617",
+    "url": "/static/css/main.5996d90f.chunk.css"
   },
   {
     "revision": "1a6bf838ff153ea37e65",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.678e98b0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4f3d824b524140806a6a",
-    "url": "/static/js/main.8eb5bb0c.chunk.js"
+    "revision": "f5881419577ad35fe617",
+    "url": "/static/js/main.ddc5f545.chunk.js"
   },
   {
     "revision": "bdd01ac27bde8efb762e",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/damian1.e2957fa7.png"
   },
   {
-    "revision": "c9c59f0345a958fbb19e019500732f4c",
-    "url": "/static/media/gory4linia.c9c59f03.png"
+    "revision": "fefb961cc0450db92bc968fc576c5e2b",
+    "url": "/static/media/gory4linia.fefb961c.png"
   },
   {
     "revision": "a8779a6c2f4af056e215e2a8385629ef",
@@ -48,20 +48,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/humantest.4ab1fa6c.jpg"
   },
   {
-    "revision": "301440d1d0c6558d36ac453712c321af",
-    "url": "/static/media/las1linia.301440d1.png"
+    "revision": "61c884ccc370ee2ad6b21281f9a4ce08",
+    "url": "/static/media/las1linia.61c884cc.png"
   },
   {
-    "revision": "0c99e922bcccff553a7a67c9a8d16dcb",
-    "url": "/static/media/las2linia.0c99e922.png"
+    "revision": "d82e8b3bc4d987f9be5f336f66bc25ec",
+    "url": "/static/media/las2linia.d82e8b3b.png"
   },
   {
-    "revision": "3c9e1fb9f763f9ff3a5209866335ef0d",
-    "url": "/static/media/niebo3linia.3c9e1fb9.png"
+    "revision": "97c5e4ddd8c08d593494ef39a70de699",
+    "url": "/static/media/niebo3linia.97c5e4dd.png"
   },
   {
-    "revision": "a26755590560f4700e2062ba965bcc01",
-    "url": "/static/media/niebo5linia.a2675559.png"
+    "revision": "7c0620870d5441b28dd1ebe0813e813d",
+    "url": "/static/media/niebo5linia.7c062087.png"
   },
   {
     "revision": "e40add3cb8ceab1d9e324f4c81cbf731",
