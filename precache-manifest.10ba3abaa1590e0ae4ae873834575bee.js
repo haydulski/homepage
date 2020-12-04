@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "92b11fb2bc2f21aec0d0e2b6e872c4ff",
+    "revision": "75e65ca8e6c952e9a974e39d9f49d64a",
     "url": "/index.html"
   },
   {
-    "revision": "0b941980b161f3ae391c",
+    "revision": "598d86aebbf33bbea83a",
     "url": "/static/css/main.5996d90f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.678e98b0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0b941980b161f3ae391c",
-    "url": "/static/js/main.01a44c76.chunk.js"
+    "revision": "598d86aebbf33bbea83a",
+    "url": "/static/js/main.26b6a310.chunk.js"
   },
   {
     "revision": "bdd01ac27bde8efb762e",
@@ -76,6 +76,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/seologo.d5023c54.png"
   },
   {
+    "revision": "e7faaa684eb610dec68d98f49e4fc0c3",
+    "url": "/static/media/strona-dranna.e7faaa68.jpg"
+  },
+  {
     "revision": "97482000c2ad87c61f87a7270388183a",
     "url": "/static/media/strona-github.97482000.jpg"
   },
@@ -84,19 +88,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/strona-glazura.8c0b75c5.jpg"
   },
   {
-    "revision": "53b181fee90901fdbbf9a7ded1c0f737",
-    "url": "/static/media/strona-hamster.53b181fe.jpg"
-  },
-  {
-    "revision": "8c5a9f11da3461e414f5fcf4374e959f",
-    "url": "/static/media/strona-kopernik.8c5a9f11.jpg"
-  },
-  {
     "revision": "7baae178cd1206bd30786f92176c9c8e",
     "url": "/static/media/strona-lederg.7baae178.jpg"
   },
   {
     "revision": "3158aab1a36df7746d72bafa2b92f775",
     "url": "/static/media/strona-premia.3158aab1.png"
+  },
+  {
+    "revision": "3d8f7a41ddc4da5974b64fcef80b5700",
+    "url": "/static/media/strona-takyes.3d8f7a41.jpg"
   }
 ]);

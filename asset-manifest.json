@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.5996d90f.chunk.css",
-    "main.js": "/static/js/main.01a44c76.chunk.js",
-    "main.js.map": "/static/js/main.01a44c76.chunk.js.map",
+    "main.js": "/static/js/main.26b6a310.chunk.js",
+    "main.js.map": "/static/js/main.26b6a310.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.88310318.js",
     "runtime-main.js.map": "/static/js/runtime-main.88310318.js.map",
     "static/js/2.678e98b0.chunk.js": "/static/js/2.678e98b0.chunk.js",
     "static/js/2.678e98b0.chunk.js.map": "/static/js/2.678e98b0.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a46603751037a05a8099c6e90479b275.js": "/precache-manifest.a46603751037a05a8099c6e90479b275.js",
+    "precache-manifest.10ba3abaa1590e0ae4ae873834575bee.js": "/precache-manifest.10ba3abaa1590e0ae4ae873834575bee.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.5996d90f.chunk.css.map": "/static/css/main.5996d90f.chunk.css.map",
     "static/js/2.678e98b0.chunk.js.LICENSE.txt": "/static/js/2.678e98b0.chunk.js.LICENSE.txt",
@@ -21,17 +21,17 @@
     "static/media/programy.png": "/static/media/programy.e40add3c.png",
     "static/media/rwdlogo.png": "/static/media/rwdlogo.0ed6361e.png",
     "static/media/seologo.png": "/static/media/seologo.d5023c54.png",
+    "static/media/strona-dranna.jpg": "/static/media/strona-dranna.e7faaa68.jpg",
     "static/media/strona-github.jpg": "/static/media/strona-github.97482000.jpg",
     "static/media/strona-glazura.jpg": "/static/media/strona-glazura.8c0b75c5.jpg",
-    "static/media/strona-hamster.jpg": "/static/media/strona-hamster.53b181fe.jpg",
-    "static/media/strona-kopernik.jpg": "/static/media/strona-kopernik.8c5a9f11.jpg",
     "static/media/strona-lederg.jpg": "/static/media/strona-lederg.7baae178.jpg",
-    "static/media/strona-premia.png": "/static/media/strona-premia.3158aab1.png"
+    "static/media/strona-premia.png": "/static/media/strona-premia.3158aab1.png",
+    "static/media/strona-takyes.jpg": "/static/media/strona-takyes.3d8f7a41.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.88310318.js",
     "static/js/2.678e98b0.chunk.js",
     "static/css/main.5996d90f.chunk.css",
-    "static/js/main.01a44c76.chunk.js"
+    "static/js/main.26b6a310.chunk.js"
   ]
 }
