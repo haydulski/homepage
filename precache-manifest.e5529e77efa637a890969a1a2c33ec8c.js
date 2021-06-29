@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "75e65ca8e6c952e9a974e39d9f49d64a",
+    "revision": "11a962ceb323b4634e388b2e59a164f0",
     "url": "/index.html"
   },
   {
-    "revision": "598d86aebbf33bbea83a",
+    "revision": "012cdb3e3562d7c2b5bd",
     "url": "/static/css/main.5996d90f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.678e98b0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "598d86aebbf33bbea83a",
-    "url": "/static/js/main.26b6a310.chunk.js"
+    "revision": "012cdb3e3562d7c2b5bd",
+    "url": "/static/js/main.d95b033d.chunk.js"
   },
   {
     "revision": "bdd01ac27bde8efb762e",
@@ -84,16 +84,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/strona-github.97482000.jpg"
   },
   {
-    "revision": "8c0b75c58d664c473d5982a3a4bfae96",
-    "url": "/static/media/strona-glazura.8c0b75c5.jpg"
+    "revision": "c94b33a80844c3180002cb811af4a02e",
+    "url": "/static/media/strona-immorise.c94b33a8.jpg"
+  },
+  {
+    "revision": "b0c25d290cd6364029fdc00a5fbe8d57",
+    "url": "/static/media/strona-koparka.b0c25d29.jpg"
   },
   {
     "revision": "7baae178cd1206bd30786f92176c9c8e",
     "url": "/static/media/strona-lederg.7baae178.jpg"
-  },
-  {
-    "revision": "3158aab1a36df7746d72bafa2b92f775",
-    "url": "/static/media/strona-premia.3158aab1.png"
   },
   {
     "revision": "3d8f7a41ddc4da5974b64fcef80b5700",
